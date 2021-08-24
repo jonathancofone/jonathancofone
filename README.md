@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathancofone from Argentina, Buenos Aires. I am a programmer looking to grow professionally.
 - 👀 I’m interested in Technology 
-- 🌱 I’m currently learning C# Javascript HTML VUE and PYTHON
+- 🌱 I’m currently learning C# JAVASCRIPT HTML VUE and PYTHON
 - 💞️ I am looking to collaborate in projects related to FullStack Web Development or Machine Learning
 - 📫 Contact me by mail jonathancofone@gmail.com
 
