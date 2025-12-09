@@ -22,8 +22,6 @@ API integrations & data handling
 
 Git / GitHub
 
-Low-code tools (Retool-level logic)
-
 Soft Skills
 
 Analytical thinking
