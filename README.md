@@ -1,15 +1,7 @@
-Jonathan Cofone — Sr. Survey Programmer | QA Automation | Front-End Logic Developer
+Jonathan Cofone — Sr. Survey Programmer | Front-End Logic Developer
 
 Hi! I'm Jonathan, a Senior Survey Programmer with strong experience in building front-end logic, complex workflows, and process automation.
 I specialize in transforming business requirements into clean, efficient, and reliable web logic using JavaScript, Lua, Python, and modern QA practices.
-
-I am currently transitioning into roles related to:
-
-QA Automation Engineering
-
-JavaScript / Retool Development
-
-Technical Support (L2/L3) with code-level troubleshooting
 
 🚀 Core Skills
 Technical (Hard Skills)
