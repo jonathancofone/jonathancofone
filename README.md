@@ -53,11 +53,10 @@ A collection of reusable functions, logic flows, and QA automation concepts.
 
 I'm actively expanding into:
 
-QA automation frameworks (Cypress, Playwright)
+QA automation frameworks (Make, Zapier)
 
 Low-code internal tools (Retool)
 
-Workflow automation with AI
 
 📫 Contact
 
